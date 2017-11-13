@@ -5,7 +5,7 @@ Validnskey is a [Go](http://golang.org/) implementation to validate the DNSKEY R
 This is a first working version.
 
 ## Installation
-     go get github.com/ulrichwisser/godane
+     go get github.com/ulrichwisser/validnskey
 
 ## Documentation
 Example command line
